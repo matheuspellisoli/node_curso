@@ -1,1 +1,1 @@
-web: node index.js/product
+web: node index.js
